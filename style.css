@@ -1,0 +1,25 @@
+#css-zen-garden{
+    background-color: whitesmoke;
+}
+
+#zen-intro{
+    font-family: 'Times New Roman', Times, serif;
+    color:wheat;
+    background-color: #FA8072;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#zen-explanation{
+    color: red;
+
+
+}
+
+#zen-preamble{
+    float: right;
+    color: chocolate;
+}
